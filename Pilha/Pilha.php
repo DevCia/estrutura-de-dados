@@ -32,6 +32,7 @@ class Pilha
     public function removerDoInicio(): void
     {
         array_shift($this->pilha);
+        $this->tamanho--;
     }
 }
 
@@ -50,3 +51,7 @@ print_r("\n\n");
 $pilhaDEJogos->removerDoInicio();
 $pilhaDEJogos->removerDoInicio();
 $pilhaDEJogos->mostrarItens();
+
+print_r("\n\n");
+print_r("numero de jogos = {$pilhaDEJogos->quantidadeDeItens()}");
+print_r("\n\n");
