@@ -8,6 +8,7 @@
 ## :bookmark: Objetivo
 
 - Ajudar a tornar o conteudo mais acessivel dando mais uma opção para as pessoas consumirem ele.
+- Link do artigo explicando os exemplos desse projeto [artigo](https://medium.com/php-word/estrutura-de-dados-6afb386a6fc1).
 
 # Índice
 
