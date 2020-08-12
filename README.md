@@ -49,4 +49,6 @@
 ### :couple: lista ligada
 
 #### Conseito
-- A lista ligada é basicamente um array de objetos onde um sempre sabe qual é o proximo
+- A lista ligada é um array de objetos onde um sempre sabe qual é o proximo
+- cada objeto dessa lista (o nó) tem como uma de suas prorpriedades o proximo objeto da lista.
+- E no final da lista o ulimo aponta para um valor nulo.
