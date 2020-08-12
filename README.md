@@ -35,6 +35,7 @@
 
 - A fila é uma estrutura do tipo <b>FIFO</b> (first-in first-out), onde o primeiro elemento a ser inserido, será o primeiro a ser retirado, ou seja, adiciona-se itens no fim e remove-se itens no fim e remove-se do início.
 
+<hr>
 
 <a id="deque"></a>
 ### :loop: Deque
@@ -44,6 +45,7 @@
 - Uma fila Duplamente Terminada (ou Deque) é um tipo abstrato de dado que organiza uma fila.
 - Onde é posivel inserir e remover tanto do inicio como do fim.
 
+<hr>
 
 <a id="lista_ligada"></a>
 ### :couple: lista ligada
